@@ -72,3 +72,9 @@ LISP 的 S-expression 天然适合表达“函数 + 参数”：
 ## License
 
 MIT
+
+## 关联 PR
+
+- 上游 DSH WebUI 插件（当前仓库：Kr-ATG/dsh-webui）：
+  - PR #1：`https://github.com/Kr-ATG/dsh-webui/pull/1`
+  - 内容：`#fragment` 片段链接跳转 + 可配置底部 TOC。

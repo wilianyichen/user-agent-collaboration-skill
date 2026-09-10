@@ -24,3 +24,7 @@
 ## PR 方向
 
 对 `DshLinkNode` 增加片段链接支持；对 `MarkstreamMarkdown` 增加 `tocPosition: 'top' | 'bottom' | 'both'`。
+
+## 关联 PR
+
+- https://github.com/Kr-ATG/dsh-webui/pull/1
